@@ -1,0 +1,10 @@
+2020-06-06 13:34:55 [INFO] pandownload version: 2.2.2
+2020-06-06 13:34:57 [INFO] aria2 websocket connection opened (127.0.0.1:36954)
+2020-06-06 13:34:57 [INFO] aria2 version: 1.35.1
+2020-06-06 13:34:57 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36954/jsonrpc
+2020-06-06 13:34:57 [WARN] lua error: G:6: '}' expected (to close '{' at line 4) near '['
+2020-06-06 13:34:57 [INFO] create main window
+2020-06-06 13:38:24 [INFO] close main window
+2020-06-06 13:38:24 [WARN] aria2 websocket connection closed (127.0.0.1:36954), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-06 13:38:25 [INFO] websocket client stop
+2020-06-06 13:38:25 [INFO] exit

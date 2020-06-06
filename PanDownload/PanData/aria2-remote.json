@@ -7,7 +7,9 @@
          "H:\\pandownload",
          "G:\\pandown",
          "H:\\gal",
-         "G:\\pandownload下载"
+         "G:\\pandownload下载",
+         "D:\\PanDownloadDocuments",
+         "D:\\pdsmDocuments"
       ],
       "host" : "127.0.0.1",
       "name" : "本地磁盘",

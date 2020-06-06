@@ -1,0 +1,20 @@
+未检测到 aria2，请打开 Pandownload
+
+按回车键退出...加入TG交流群：https://t.me/pandown
+给我捐赠：https://acg.uy/donate.html
+项目地址：https://github.com/TkzcM/pandownload-login/
+
+启动代理成功，请将 PanData/config.ini 中的 proxy 修改为下面显示的地址（已修改请忽略）
+Proxy server listening at http://127.0.0.1:8888
+127.0.0.1:53165: clientconnect
+127.0.0.1:53165: GET http://pandownload.com/api/init?clienttype=0&referral=&t=1591487379&version=2.2.2
+              << 200 OK 932b
+127.0.0.1:53165: clientdisconnect
+127.0.0.1:53169: clientconnect
+127.0.0.1:53169: GET http://pandownload.com/api/script/list?clienttype=0&referral=&t=1591487379&version=2.2.2
+              << 200 OK 772b
+127.0.0.1:53169: clientdisconnect
+127.0.0.1:53172: clientconnect
+127.0.0.1:53172: GET http://pandownload.com/api/latest?clienttype=0&referral=&t=1591487381&version=2.2.2
+              << 200 OK 321b
+127.0.0.1:53172: clientdisconnect
