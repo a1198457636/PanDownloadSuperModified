@@ -27,6 +27,8 @@
 
 5、重写启动器代码，优化用户体验
 
+6、删除我自己的下载任务完成记录
+
 ### 常见错误及解决方案：
 
 ## 请先参阅pandownload官方帮助文档http://www.pandownload.com/faq.html
