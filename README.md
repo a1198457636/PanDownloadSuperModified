@@ -31,6 +31,8 @@ t.me/pdcjxg
 
 ### 常见错误及解决方案：
 
+## 请先参阅pandownload官方帮助文档http://www.pandownload.com/faq.html
+
 0、在选择下载接口里循环跳：
 
 解：请选择allall02接口（没有的话选择倒数第二个）
