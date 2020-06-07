@@ -10,6 +10,9 @@
 
 ### 若要下载自己网盘里的文件，请右击->分享->复制链接，并在新页标签中粘贴，点击打开，然后右击->下载
 
+#### 1.07版蓝奏云链接 https://lanzous.com/iQI6wdews4b
+密码:cjvh
+
 #### 1.01版蓝奏云链接 https://lanzous.com/i6SRTddt7tg
 密码:7xsq
 
