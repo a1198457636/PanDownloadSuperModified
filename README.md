@@ -3,6 +3,8 @@
 
 （此页面并非第一发布页面，不及时更新）
 
+（老版本下载接口早已失效）
+
 pandownload超级修改版1.11内测版本申请说明
 
 ![NGmeLF.png](https://s1.ax1x.com/2020/06/22/NGmeLF.png)
